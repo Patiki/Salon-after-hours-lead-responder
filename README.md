@@ -17,9 +17,22 @@ Built by **Sahithi Patiki** as portfolio project #1 of a freelance AI-automation
 5. A second AI pass extracts the lead: name, service, preferred time, phone.
 6. The lead is saved to a Google Sheet for the owner to follow up in the morning.
 
+## Screenshots
+
+![Workato recipe canvas](Workato%20Recipie.png)
+*The full recipe: webhook trigger, after-hours gate, two Gemini calls, two Parse JSON steps, Google Sheets write.*
+
+![Successful job run](Sucessfull_Job.png)
+*A real run: every step green in under 5 seconds.*
+
+![Leads captured in Google Sheets](Leads_captured.png)
+*Extracted leads landing in the sheet — name, service, preferred time, phone, reference.*
+
 ## Repository contents
 
-- `screenshots/` — coming next: the Workato recipe, job run history, and the leads sheet
+- `Workato Recipie.png` — recipe canvas screenshot
+- `Sucessfull_Job.png` — successful job run screenshot
+- `Leads_captured.png` — leads sheet screenshot
 - `README.md` — this file
 
 ## Tech stack

@@ -6,7 +6,7 @@ Built by **Sahithi Patiki** as portfolio project #1 of a freelance AI-automation
 
 ## Live demo
 
-**[Velvet Mane Salon & Spa](https://muse.ai/s/demo-salon-website-2-xke6i42mxkxfkxi)** — open the page and send a message in the chat to see the customer experience.
+**[Velvet Mane Salon & Spa](https://muse.ai/s/demo-salon-website-2-xke6i42mxkxfkxi/UhuTbj9tV3YIMuupyrDnibn682VasJzBCTqiMS-YU4A)** — open the page and send a message in the chat to see the customer experience.
 
 ## How it works
 
